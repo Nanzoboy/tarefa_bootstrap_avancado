@@ -1,0 +1,26 @@
+header{
+    background-color: rgb(167, 167, 241);
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 10;
+}
+li{
+    margin-right: 5px;
+}
+.nav-link{
+    cursor: pointer;
+}
+.nav-link:hover{
+    text-decoration: underline;
+}
+#carros{
+    margin-top: 50px;
+}
+article{
+    margin-bottom: 30px;
+}
+.carousel-indicators{
+    color: black;
+}
+
